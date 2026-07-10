@@ -1,6 +1,40 @@
 # 💫 Hello World! 
 It's me Zaryab! Bringing Ideas to life.
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="42%">
+      <a href="https://gitfut.com/zubbicodes?country=pk">
+        <img
+          src="https://gitfut.com/zubbicodes.png"
+          width="350"
+          alt="GitFut Card"
+        />
+      </a>
+    </td>
+
+    <td valign="top" width="58%">
+
+<a href="https://github.com/zubbicodes">
+<img
+src="https://readme-stats-github.pages.dev/api?username=zubbicodes&show_icons=true&hide_border=false&border_radius=12&bg_color=1b120d&title_color=f1d39b&text_color=e7d2b2&icon_color=d6a15d&border_color=8b6238&ring_color=d6a15d&count_private=true&include_all_commits=true"
+width="420"
+/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/zubbicodes">
+<img
+src="https://readme-stats-github.pages.dev/api/top-langs?username=zubbicodes&layout=compact&hide_border=false&border_radius=12&bg_color=1b120d&title_color=f1d39b&text_color=e7d2b2&border_color=8b6238"
+width="420"
+/>
+</a>
+
+</td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whozaryab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubbihawk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zubbihawk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zubbihawk@gmail.com) 
 
