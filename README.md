@@ -3,7 +3,8 @@ It's me Zaryab! Bringing Ideas to life.
 
 ## ⚽ My GitFut Card
 
-[![My GitFut card](https://gitfut.com/pewdiepie-archdaemon.png)](https://gitfut.com/pewdiepie-archdaemon)
+[![My GitFut card](https://gitfut.com/zubbicodes-gifut.png)](https://gitfut.com/zubbicodes?country=pk)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whozaryab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubbihawk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zubbihawk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zubbihawk@gmail.com) 
