@@ -3,7 +3,7 @@ It's me Zaryab! Bringing Ideas to life.
 
 ## ⚽ My GitFut Card
 
-[![My GitFut card](https://gitfut.com/zubbicodes-gifut.png)](https://gitfut.com/zubbicodes?country=pk)
+[![My GitFut scout report](https://gitfut.com/torvalds/readme.png)](https://gitfut.com/torvalds)
 
 
 ## 🌐 Socials:
