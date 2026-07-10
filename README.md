@@ -3,7 +3,9 @@ It's me Zaryab! Bringing Ideas to life.
 
 ## ⚽ My GitFut Card
 
-[![My GitFut scout report](https://gitfut.com/torvalds/readme.png)](https://gitfut.com/torvalds)
+## ⚽ My GitFut Card
+
+[![My GitFut scout report](https://gitfut.com/torvalds/readme.png?v=1)](https://gitfut.com/torvalds)
 
 
 ## 🌐 Socials:
